@@ -1,13 +1,9 @@
 
 # Geojs.io cookie based geo content
 
-Hello, I have developed this little function to retrieve the country of an IP address in order to display specific content based on it. 
+Hello, we have developed this little function to retrieve the country of an IP address in order to display specific content based on it. 
 
-I'm using the geojs.io API which currently has no capping limit. I opted for a cookie-based solution to limit the amount of calls made to their API.
-
-I am a beginner in the development world. I appreciate any constructive feedback on this little project, which I hope will help many.
-
-
+We use the geojs.io API which currently has no capping limit. We'veI opted for a cookie-based solution to limit the amount of calls made to their API.
 
 ## Features
 
